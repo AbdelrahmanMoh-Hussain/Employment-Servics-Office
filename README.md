@@ -1,4 +1,4 @@
-# Employment Services Office Database Mangment System
+# Employment Services Office Database Management System
 ## Description
 - Many employees work  in the public employment service office ”PESO” , each one works in a certain department(1-1) .
 Employees data : (Name ,sex, birth, address, SSN) while the departments data ( Name ,Number, location) and for each department there is a manager who is responsible of it(1-1).
